@@ -1,7 +1,7 @@
 :root {
-    --escuro: rgb(119, 255, 137);
-    --claro: rgb(229, 255, 221);
-    --borda:rgb(5, 61, 0);
+    --escuro: rgb(40, 255, 255);
+    --claro: rgb(198, 255, 243);
+    --borda:rgb(0, 80, 63);
 }
 header{
     background-color: var(--claro);
